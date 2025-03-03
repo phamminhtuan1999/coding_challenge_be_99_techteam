@@ -3,8 +3,6 @@
 
 This repository contains solutions for three different coding challenges.
 
-Link challenges: https://s5tech.notion.site/Code-Challenge-05cdb9e0d1ce432a843f763b5d5f7497
-
 ## Problem 4: Sum to N Implementation
 
 Implementation of three different approaches to calculate the sum of numbers from 1 to n.
